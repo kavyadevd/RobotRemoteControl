@@ -4,4 +4,8 @@ Robot has  4 Dc motors controlled drive, Ultrasonic ping sensor for obstacle avo
 Code is compiled and uploaded on an ATmega2560 microcontroller
 The robot has power screw controlled pole climbling mechanism
 
+![DSC_0304](https://user-images.githubusercontent.com/13993518/121774375-dc3a9f00-cb9f-11eb-9418-eedba85865b4.JPG)
+
+
+
 PS2 library imported from http://www.billporter.info/2011/03/27/arduino-playstation-2-controller-library-troubleshooting-guide/
