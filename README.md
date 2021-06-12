@@ -9,3 +9,7 @@ The robot has power screw controlled pole climbling mechanism
 
 
 PS2 library imported from http://www.billporter.info/2011/03/27/arduino-playstation-2-controller-library-troubleshooting-guide/
+
+
+Code from 2016 written for a robotics competition: ABU Robocon 2016
+(https://en.wikipedia.org/wiki/ABU_Robocon#ABU_Robocon_2016)
